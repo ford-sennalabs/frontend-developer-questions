@@ -16,12 +16,11 @@ const findUniq = (arr) => {
 	}
 	
 	for(let index=0; index < valuesAlreadySeen.length; index++){
-		let count_duplicate = howManyDuplicate(valuesAlreadySeen[index], arr)
-		if(count_duplicate === 1){
+		let count = howManyDuplicate(valuesAlreadySeen[index], arr)
+		if(count === 1){
 			return valuesAlreadySeen[index]
 		}
 	}
-	return valuesAlreadySeen
 }
 
 const howManyDuplicate = (value, arr) => {
