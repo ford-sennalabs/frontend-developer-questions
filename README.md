@@ -4,7 +4,7 @@
 ##### Question 1 
 1. ติดตั้ง Node.js (หากยังไม่ได้ทำการติดตั้ง)
 2. 	เข้าไปยัง folder question1
-3. 	run คำสั่ง node qustion1
+3. 	run คำสั่ง node question1
 
 ##### Question 2
 1. เป็น to-do app ที่สร้างโดยใช้ create-react-app
@@ -15,7 +15,7 @@
 ##### Question 3
 1. ติดตั้ง Node.js (หากยังไม่ได้ทำการติดตั้ง)
 2. เข้าไปยัง folder question3
-3. run คำสั่ง node qustion3
+3. run คำสั่ง node question3
 
 ##### Question 4
 ไม่มีคำตอบ เนื่องจากทำไม่เสร็จภายในเวลาที่กำหนด
