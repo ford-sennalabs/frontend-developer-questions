@@ -1,0 +1,7 @@
+.to-do-list {
+	max-width: 70%;
+}
+.to-do-list .item {
+	display: flex;
+	justify-content: space-between;
+}
